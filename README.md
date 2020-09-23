@@ -1,2 +1,2 @@
 # PDFtoAudio
-This is a python code for PDF to Audio
+This is a python code to convert PDF to Audio
